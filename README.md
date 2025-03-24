@@ -27,11 +27,19 @@ API REST desarrollada con **Spring Boot** para gestionar recetas. Permite crear,
 # Pruebas en Postman
 
 ## GET
+![GET](https://github.com/user-attachments/assets/5114de06-d6c5-4ce9-8ba1-e7906beb3389)
+
 ## SHOW
   Es decir un get de un recurso específico
   
+  ![SHOW](https://github.com/user-attachments/assets/13e3d2b5-e4f0-487d-99ba-4cb6cca126a6)
+
 ## POST
+![POST](https://github.com/user-attachments/assets/2a535110-6445-4ac4-b059-ed44ab7c6499)
 
 ## UPDATE
+![UPDATE](https://github.com/user-attachments/assets/74348fca-2289-4c66-96b7-70881d2e15cd)
 
 ## DELETE
+![DELETE](https://github.com/user-attachments/assets/550a6475-df84-4310-a218-49e0776b3385)
+
